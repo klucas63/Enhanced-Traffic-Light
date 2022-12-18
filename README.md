@@ -1,4 +1,4 @@
-# 2 Direction Traffic Light With Pedestrian Crossing #
+# Arduino 2 Direction Traffic Light With Pedestrian Crossing #
 ***DRAFT***
 I am also new to Arduino so be kind, I may miss something. If you like this concept feel free to use this code. I however am doing this for free/fun so no warranty is implied. Use at your own risk.
 
