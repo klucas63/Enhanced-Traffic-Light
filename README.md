@@ -17,7 +17,7 @@ Not sponsored by Amazon but a easy fairly inexpensive place to get stuff with go
 These are just what I used. You can substitute as you see fit, just change the code.
 - Arduino Nano
     https://www.amazon.com/dp/B01EWOE0UU?psc=1&ref=ppx_yo2ov_dt_b_product_details
-- LEDs - red - qty 4
+- LEDs - red - qty 4, green - qty 2, yellow - qty 2, white - qty 2
     https://www.amazon.com/dp/B09XDMJ6KY?psc=1&ref=ppx_yo2ov_dt_b_product_details
 - Project board
     https://www.amazon.com/Breadboards-Solderless-Breadboard-Distribution-Connecting/dp/B07DL13RZH/ref=pd_bxgy_img_sccl_1/140-3574912-4189668?pd_rd_w=8ykLm&content-id=amzn1.sym.7f0cf323-50c6-49e3-b3f9-63546bb79c92&pf_rd_p=7f0cf323-50c6-49e3-b3f9-63546bb79c92&pf_rd_r=Z9Z4XPK35P6DH893QNYZ&pd_rd_wg=lsJzb&pd_rd_r=aa49902d-7841-4429-9bf1-48bf1d527a5e&pd_rd_i=B07DL13RZH&psc=1
