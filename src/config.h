@@ -1,0 +1,34 @@
+#ifndef CONFIG_H
+#define CONFIG_H
+
+#define GRNLGHT1PIN 4
+#define YLWLGHT1PIN 3
+#define REDLGHT1PIN 2
+#define GRNLGHT2PIN 5
+#define YLWLGHT2PIN 6
+#define REDLGHT2PIN 7
+#define REDXWLK1PIN 8
+#define GRNXWLK1PIN 9
+#define REDXWLK2PIN 10
+#define GRNXWLK2PIN 11
+
+#define REDGRNCYCLE 10000
+#define YELLOWCYCLE 3000
+#define ALLREDCYCLE 1000
+
+#define ST_DONTWALKFLASH 250
+
+enum TRAFFICSTATES
+{
+    ST_RED,
+    ST_YELLOW,
+    ST_GREEN,
+}; 
+
+enum WALKSTATES
+{
+    ST_WALKRED,
+    ST_REDFLASH,
+    ST_WALKGREEN,
+};
+#endif
